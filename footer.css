@@ -1,0 +1,24 @@
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footherb{
+    height: 180px;
+    width: 300px;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.footherb>a{
+    color:white;
+    text-decoration: none;
+}
+.footherb>a:hover{
+    color: yellow;
+    text-decoration: underline;
+}

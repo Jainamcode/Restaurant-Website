@@ -1,0 +1,75 @@
+body{
+    background-color: #61122f;
+    font-family: 'Ballo Bhai 2',cursive;
+    width: fit-content;
+    
+}
+.left{
+    display: inline;
+    border: 0px;
+    position: absolute;
+    left: 34px;
+    top: 20px;
+}
+
+.left div{
+    text-align: center;
+    display: inline;
+    font-size: 42px;
+    line-height: opx;
+    color: black;
+}
+.left div:hover{
+    color: green;
+}
+.mid{
+    display: block;
+    width: 340%;
+    margin: 33px 669px;
+    border: 0px
+    
+}
+
+.right{
+    display: inline;
+    position: absolute;
+    right: 34px;
+    top: 20px;
+}
+
+
+.navbar li{
+    display: inline-block;
+    font-size: 20px;
+}
+.navbar li a{
+    color: black;
+    text-decoration: none;
+    padding: 34px 23px;
+}
+.navbar li a:hover{
+    text-decoration: underline;
+    color: green;
+}
+
+header{
+    background-color: #f6b319;
+    padding: 1px; 
+}
+
+.btn{
+    font-family: 'Ballo Bhai 2',cursive;
+    padding: 7px 15px;
+    background-color: #61122f;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: green;
+}
+.img{
+    padding: 20px 289px;
+    width: 900px; 
+}
+/*Services*/

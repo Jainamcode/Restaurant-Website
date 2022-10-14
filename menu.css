@@ -1,0 +1,33 @@
+.menu{
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 77px 3px;
+}
+.menu_pro{
+    border: 0px solid red;
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 4), 0 6px 20px 0 rgba(0, 0, 0, 35);
+    transition: transform 1s;
+}
+.menu_pro:hover{
+    transform: scale(1.05);
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+}
+.title > a:hover{
+    text-decoration: none;
+    
+    cursor: pointer;
+}
+h1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
