@@ -21,7 +21,7 @@
         </div>
         <div class="mid">
             <ul class="navbar">
-                <li><a href="Restaurant.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="menu.html">Menu</a></li>
                 <li><a href="About us.html">About us</a></li>
                 <li><a href="Contactus.html">Contact us</a></li>
@@ -40,7 +40,7 @@
             <b>Quick Link</b>
             <br>
             <br>
-            <a href="Restaurant.html">Home<br></a> 
+            <a href="index.php">Home<br></a> 
             <a href="menu.html">Menu</a><br>
             <a href="About us.html">About us</a><br>
             <a href="Contactus.html">Contact us</a>
