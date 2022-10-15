@@ -32,7 +32,7 @@
         </div>
     </header>
     <!--Image-->
-    <img src="C:\Users\JAINAM R. SHAH\OneDrive\Desktop\WT Mini Project\images\image01.jpg" class="img">
+    <img src="./images/image01.jpg" class="img">
     
     <!--footer-->
     <div class="footer">
